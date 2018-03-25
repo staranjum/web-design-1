@@ -1,0 +1,66 @@
+
+
+#jumbos{
+    background-image: url('images/HomeDesktopheader.jpg');
+    background-size: cover;
+    height: 260px;
+    box-sizing: content-box;
+    overflow: hidden;
+    margin-top:-14%;
+    padding-top:21%;     
+}
+#contents{
+    padding-top:20%;
+}
+
+
+
+#img-body{
+    height:666px;
+    width:1000px;
+}
+#image-row{
+    width:700px;
+}  
+
+#image-row img{
+    height:250px;
+    width:200px;      
+    display:block;
+}
+#image-row h5 {
+    margin:5%;
+    font-family: 'Open Sans','Microsoft PhagsPa';
+    font-weight: 700;
+    font-size: 1.143em;
+    color: rgba(78,78,78,1);
+}
+
+#image-row p{
+    font-size: 15px;
+    margin: 5%;
+}
+
+#div-pic{
+    margin: 5% auto;
+    padding: 5%;
+    background: url('images/About-UsDesktophtml_row5.jpg');
+    background-size: cover;
+    width:800px; 
+    height:300px;   
+}
+#div-pic h3{
+   
+    font-weight:200;
+   
+}
+.card-img-top1{
+    height: 100px;
+    width: 160px;
+}
+.cards h4{
+    font-size:16px;
+}
+
+
+

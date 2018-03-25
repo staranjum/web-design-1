@@ -1,0 +1,32 @@
+#html {
+    height: 100%;
+}
+
+#jumbo {
+    background-image: url('images/ServicesDesktopheader.jpg');
+    background-size: cover;
+    height: 260px;
+    box-sizing: content-box;
+    overflow: hidden;
+}
+
+#content {
+    padding-top: 20%;
+}
+
+#contact-btn {
+    margin-top:-10%;
+    margin-left:40%;
+    width: 200px;
+    height: 60px;
+    background-color: #00CBCB;
+    background: rgba(0, 203, 203, 0.3);
+}
+
+#contact-p {
+    font-family: 'Open Sans', 'Arial';
+    font-size: 2.857em;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+
